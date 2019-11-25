@@ -1,0 +1,32 @@
+
+    <!-- Copyright 2018 Google Inc.
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+        http://www.apache.org/licenses/LICENSE-2.0
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License. -->
+
+<resources>
+<string name="app_name">About Me</string>
+<string name="name">Ernest</string>
+<string name="yellow_star">Yello star</string>
+<string name="bio">Hi, my name is Ernest.
+\n\n I am a student of Baltik Federal University
+    \n \n Its my 1st year in BFU.
+\n\n i live in Kaliningrad for 6 years
+\n I came from Ufa in this city
+\n\n I love programming and android development
+\n In future i want to be a progremmer in Android sphere
+\n Now I am going to finish android course by Udacity
+\n\nAnd try to get my first job
+\n\nI\'ll be happy to learn Kotlin with you
+\nMy apps you can see in my GitHub profile\n\n
+    </string>
+    <string name="What_is_your_nickname">What is your nickname?</string>
+    <string name="done">Done</string>
+</resources>
+
